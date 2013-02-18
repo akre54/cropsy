@@ -1,6 +1,6 @@
 /* cropsy.js by Adam Krebs
  *
- * All Rights Reserved until I come up with a good licence (MIT probably)
+ * Available under terms of the MIT license (see LICENSE in project root)
  */
 
 ;(function($) {
