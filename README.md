@@ -2,7 +2,10 @@ cropsy.js
 =========
 
 cropsy is a jQuery plugin for creating a draggable and zoomable cropper window
-around an attached image, similar to Twitter's profile image selector.
+around an attached image, similar to Twitter's profile image selector. Its name
+comes from the Staten Island urban legend of
+[Cropsey](http://movies.nytimes.com/2010/06/04/movies/04cropsey.html?_r=0).
+Coder beware. 
 
 Sample usage
 ------------
