@@ -1,7 +1,7 @@
 {
   "name": "cropsy",
   "title": "Cropsy - Image cropper through a moveable viewport",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "cropsy is a jQuery plugin for creating a draggable and zoomable cropper window around an attached image, similar to Twitter's profile image selector. Its name comes from the Staten Island urban legend of Cropsey. Coder beware.",
   "keywords": [ "image", "picture", "select", "crop", "cropper", "viewport", "draggable", "zoomable", "drag", "zoom", "slider", "ui" ],
   "author": {
